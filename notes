@@ -1,0 +1,47 @@
+
+Web Application Development
+---------------------------
+Node
+Express
+Angular
+HTML
+CSS
+Bootstrap
+
+
+
+
+20-02-2018
+----------
+
+Application have API develped with node
+
+
+Frontend Developed with angular
+
+
+
+
+Simple Node API : https://blog.leonhassan.co.uk/2018/01/09/setting-up-a-simple-rest-server-in-node-js/
+
+nisha@nisha-G41MT-S2 ~/learning-nish $ mkdir SimpleAPI
+
+nisha@nisha-G41MT-S2 ~/learning-nish $ cd SimpleAPI/
+
+
+
+## Starting server
+
+nisha@nisha-G41MT-S2 ~ $ cd learning-nish/
+nisha@nisha-G41MT-S2 ~/learning-nish $ cd SimpleAPI/
+nisha@nisha-G41MT-S2 ~/learning-nish/SimpleAPI $ node app.js
+Listening on port 3000
+
+
+Calling API from browser  http://localhost:3000/sum?n1=10&n2=15    ( n1 and n2 is parameters )
+
+
+
+
+https://www.thepolyglotdeveloper.com/2015/10/create-a-simple-restful-api-with-node-js/
+https://blog.leonhassan.co.uk/2018/01/09/setting-up-a-simple-rest-server-in-node-js/
